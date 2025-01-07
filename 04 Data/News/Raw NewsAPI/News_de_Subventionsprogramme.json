@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Reuters",
+            "title": "China startet Antidumping-Untersuchung zu EU-Importen von Milchprodukten",
+            "description": "Chinas j\u00fcngste Antidumping-Untersuchung nimmt europ\u00e4ische Milchprodukte ins Visier. Die Spannungen im Handelsstreit mit der EU haben eine neue Dimension erreicht. Die Entscheidung kam, nachdem die EU ihre Z\u00f6lle auf chinesische Elektroautos angepasst hatte.",
+            "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/china-startet-antidumping-untersuchung-zu-eu-importen-von-milchprodukten-19933145.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/978610347/1.9933165/facebook_teaser/eine-milchkuh-steht-im-stall.jpg",
+            "publishedAt": "2024-08-21T12:11:06Z",
+            "content": "Im Handelsstreit mit der Europ\u00e4ischen Union nimmt China eine weitere Antidumping-Untersuchung bei Importen aus der EU auf. Betroffen sind diesmal Milchprodukte wie verschiedene K\u00e4sesorten, Milch und \u2026 [+1891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diepresse.com"
+            },
+            "author": "Michael Laczynski",
+            "title": "E-Autos gegen K\u00e4se: China schl\u00e4gt der EU einen Kuhhandel vor [premium]",
+            "description": "Die Regierung in Peking untersucht angebliche illegale Subventionen in die europ\u00e4ische Milchwirtschaft. Das Ziel: die EU soll ihren Markt f\u00fcr chinesische Einfuhren offenhalten.",
+            "url": "https://www.diepresse.com/18779918/e-autos-gegen-kaese-china-schlaegt-der-eu-einen-kuhhandel-vor",
+            "urlToImage": "https://img.diepresse.com/public/incoming/7tyfy7-ITALY-BANKSCOMPANIES/alternates/DPR_SOCIAL_NACHRICHTEN/ITALY-BANKSCOMPANIES",
+            "publishedAt": "2024-08-21T14:05:26Z",
+            "content": "Die Regierung in Peking untersucht angebliche illegale Subventionen in die europ\u00e4ische Milchwirtschaft. Das Ziel: die EU soll ihren Markt f\u00fcr chinesische Einfuhren offenhalten. \r\nJosep Borrell ist zw\u2026 [+2057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "N-tv.de"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "Erst E-Autos, jetzt K\u00e4se: Wie geht es im Handelszoff zwischen EU und China weiter?",
+            "description": "Der Handelszwist zwischen China und der EU droht in die bef\u00fcrchtete Streitspirale zu rutschen. China baut eine Drohkulisse mit Lebensmittelz\u00f6llen auf.",
+            "url": "https://www.n-tv.de/wirtschaft/Wie-geht-es-im-Handelszoff-zwischen-EU-und-China-weiter-article25177615.html",
+            "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop25177624/3821328832-cImg_16_9-w1200/471122872.jpg",
+            "publishedAt": "2024-08-25T12:13:48Z",
+            "content": "Der Handelszwist zwischen China und der EU droht in die bef\u00fcrchtete Streitspirale zu rutschen. China baut eine Drohkulisse mit Lebensmittelz\u00f6llen auf.\r\nHier erhebt die EU Z\u00f6lle auf Elektroautos aus C\u2026 [+6498 chars]"
+        }
+    ]
+}

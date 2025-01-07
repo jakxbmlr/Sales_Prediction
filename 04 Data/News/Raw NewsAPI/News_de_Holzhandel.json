@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Berliner Morgenpost"
+            },
+            "author": "Micaela Taroni",
+            "title": "Erdbebengefahr: Beliebte Urlaubsroute bleibt unpassierbar",
+            "description": "Eine beliebte Reiseroute ist nach einem Felssturz weiterhin gesperrt. Die Region ist stark von Erdbeben gef\u00e4hrdet. Anwohner schlagen Alarm.",
+            "url": "https://www.morgenpost.de/panorama/article406966086/urlaub-italien-erdbeben-gefahr-beliebte-route-unpassierbar.html",
+            "urlToImage": "https://img.sparknews.funkemedien.de/406966525/406966525_1723136798_v16_9_1600.jpeg",
+            "publishedAt": "2024-08-08T17:06:39Z",
+            "content": "Berlin. Eine beliebte Reiseroute ist nach einem Felssturz weiterhin gesperrt. Die Region ist stark von Erdbeben gef\u00e4hrdet. Anwohner schlagen Alarm.\r\nEs ist eine beliebte Reiseroute, die j\u00e4hrlich Zehn\u2026 [+4093 chars]"
+        }
+    ]
+}

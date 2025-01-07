@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 167,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Josua Doering",
+            "title": "heise+ | Automatisierung mit PowerShell: Die richtige Strategie",
+            "description": "Mit PowerShell lassen sich IT-Prozesse im Unternehmen effizient automatisieren. Das Beispiel Personalverwaltung zeigt das richtige Vorgehen und m\u00f6gliche H\u00fcrden.",
+            "url": "https://www.heise.de/ratgeber/Automatisierung-mit-PowerShell-Die-richtige-Strategie-9819909.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/3/6/2/0/automatisierung_mit_powershell-bf4325a3131e0d64.png",
+            "publishedAt": "2024-08-05T07:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nWer manuelle IT-Aufgaben automatisieren will, kann auf geeignete Skriptsprachen vieler Shells zur\u00fcckgreifen: Zu den bekannteren z\u00e4hlen Bash oder die Z shell, um nur einige Beispie\u2026 [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "Quartalszahlen: Siemens steigert Gewinn - Automatisierung schw\u00e4chelt",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eQuartalszahlen\u201c. Lesen Sie jetzt \u201eSiemens steigert Gewinn - Automatisierung schw\u00e4chelt\u201c.",
+            "url": "https://www.zeit.de/news/2024-08/08/siemens-steigert-gewinn-automatisierung-schwaechelt",
+            "urlToImage": "https://img.zeit.de/news/2024-08/08/siemens-steigert-gewinn-automatisierung-schwaechelt-image-group/wide__1300x731",
+            "publishedAt": "2024-08-08T05:00:37Z",
+            "content": "Die Gewinne bei Siemens sprudeln wieder kr\u00e4ftiger. Im dritten Quartal seines Gesch\u00e4ftsjahres verdiente der M\u00fcnchner Konzern unter dem Strich gut 2,1 Milliarden Euro, wie er mitteilte. Das waren 48 Pr\u2026 [+2955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Noemi Sinka",
+            "title": "Anzeige: Smarte Steckdosen jetzt f\u00fcr nur 29,99 Euro bei Amazon",
+            "description": "Die smarte Steckdose spart Energie, senkt Stromkosten und erh\u00f6ht den Komfort durch einfache Automatisierung und Sprachsteuerung. (Technik/Hardware, Smart Home)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fanzeige-smarte-steckdosen-jetzt-fuer-nur-29-99-euro-bei-amazon-2408-187964.html&referer=https%3A%2F%2Ft.co%2F22fe775098",
+            "urlToImage": null,
+            "publishedAt": "2024-08-12T15:18:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Golem Karrierewelt",
+            "title": "Anzeige: Effiziente Containerverwaltung mit Kubernetes",
+            "description": "Kubernetes ist der De-facto-Standard im Containermanagement. Die Golem Karrierewelt bietet umfassende Workshops zur Automatisierung und Optimierung von Containerprozessen mit dem fortschrittlichen Werkzeug. (Golem Karrierewelt, Server-Applikationen)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fanzeige-effiziente-containerverwaltung-mit-kubernetes-2408-187731.html&referer=https%3A%2F%2Ft.co%2F227be162c7",
+            "urlToImage": null,
+            "publishedAt": "2024-08-21T05:00:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Golem Karrierewelt",
+            "title": "Anzeige: Effizienzsteigerung durch Microsoft Power Automate",
+            "description": "Durch die nahtlose Integration verschiedener Produktivit\u00e4tsanwendungen erleichtert Microsoft Power Automate die Automatisierung von Gesch\u00e4ftsprozessen. Dieser Intensivkurs vermittelt den Einsatz. (Golem Karrierewelt, Microsoft)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fanzeige-effizienzsteigerung-durch-microsoft-power-automate-2408-187571.html&referer=https%3A%2F%2Ft.co%2F0f10593a43",
+            "urlToImage": null,
+            "publishedAt": "2024-08-10T05:00:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: Gesch\u00e4ftsprozesse optimieren durch Datenanalyse mit Process Mining",
+            "description": "Mit den Analysetechniken der Process-Mining Gesch\u00e4ftsabl\u00e4ufe durchleuchten, Engp\u00e4sse erkennen und Gesch\u00e4ftsprozesse effizienter gestalten. 10% Rabatt bis 21.08.",
+            "url": "https://www.heise.de/news/iX-Workshop-Geschaeftsprozesse-optimieren-durch-Datenanalyse-mit-Process-Mining-9830049.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/8/9/5/4/Datengestuetzte-Prozessanalyse-Process-Mining_Ticker-Header-16-9-f54ef02126d168a5.png",
+            "publishedAt": "2024-08-12T08:00:00Z",
+            "content": "Process Mining ist eine Methode des Prozessmanagements, mit der Unternehmen ihre Gesch\u00e4ftsprozesse analysieren und optimieren k\u00f6nnen. Dabei werden Daten zu einzelnen Prozessschritten, die in IT-Syste\u2026 [+1523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Intensiv-Workshop: VMware vSphere 7 und 8 einrichten und administrieren",
+            "description": "Lernen Sie an f\u00fcnf Tagen mit vielen praktischen \u00dcbungen, wie Sie VMware vSphere 7 und 8 installieren, konfigurieren und administrieren.",
+            "url": "https://www.heise.de/news/iX-Intensiv-Workshop-VMware-vSphere-7-und-8-einrichten-und-administrieren-9830366.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/9/1/2/1/Powerkurs-vSphere-Ticker-Header-16-9-b9da3ed8959a6775.jpg",
+            "publishedAt": "2024-08-14T10:00:00Z",
+            "content": "VMware vSphere ist eine weitverbreitete Virtualisierungssoftware, die mit der derzeit verf\u00fcgbaren achten Produktgeneration einen beachtlichen Reifegrad erreicht hat. Als Cloud-Betriebssystem verwalte\u2026 [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: Kostenkontrolle in der Public Cloud",
+            "description": "Einblick in die Geb\u00fchrenmodelle der gro\u00dfen Public-Cloud-Anbieter: Entdecken Sie, wie Sie mit den richtigen Einstellungen & Tools Kosten reduzieren.",
+            "url": "https://www.heise.de/news/iX-Workshop-Kostenkontrolle-in-der-Public-Cloud-9830261.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/9/0/6/4/Kosteneffiziente-Cloudnutzung-Ticker-Header-16-9-11b7feb90d428ebd.jpg",
+            "publishedAt": "2024-08-16T10:00:00Z",
+            "content": "Unterschiedliche und nicht immer transparente Abrechnungs- und Geb\u00fchrenmodelle der Cloud-Anbieter f\u00fchren dazu, dass Unternehmen bei der Migration in die Public Cloud schnell den Durchblick verlieren.\u2026 [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: Linux-Server vor Angriffen wirksam sch\u00fctzen",
+            "description": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen sch\u00fctzen - von physischer Sicherheit \u00fcber Verschl\u00fcsselung und 2FA bis hin zu SELinux.",
+            "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-9830397.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/9/1/3/7/Linux-Server_Ticker-16x9-2a237b7d9cf685a7.jpg",
+            "publishedAt": "2024-08-18T10:00:00Z",
+            "content": "Malware und Hacker-Angriffe sind l\u00e4ngst nicht mehr nur ein Windows-Thema auch Linux-Server und die darauf laufenden Dienste geraten immer h\u00e4ufiger unter Beschuss. Der f\u00fcnft\u00e4gige Intensiv-Workshop Lin\u2026 [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: Cloud-Landing-Zones: Aufbau einer modernen Cloud-Umgebung",
+            "description": "Erfahren Sie, wie Sie mit einer Landing Zone eine sichere, effiziente und skalierbare Cloud-Umgebung entwerfen und implementieren k\u00f6nnen.",
+            "url": "https://www.heise.de/news/iX-Workshop-Cloud-Landing-Zones-Aufbau-einer-modernen-Cloud-Umgebung-9844171.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/6/6/1/8/Cloud-Landing-Zone-Ticker-Header-16-9-b1616595745f8802.png",
+            "publishedAt": "2024-08-27T06:00:00Z",
+            "content": "Unternehmen setzen auf die Flexibilit\u00e4t, Skalierbarkeit und Kosteneffizienz von Cloud-Plattformen. Um diese Vorteile voll aussch\u00f6pfen zu k\u00f6nnen, bedarf es jedoch einer strukturierten Planung und Impl\u2026 [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Walter",
+            "title": "heise+ | Agile Softwareentwicklung: Best Practices f\u00fcr Software-Systemschnittstellen",
+            "description": "Schnittstellen \u00fcberwinden Grenzen zwischen Softwaresystemen. Auf dem Weg von der Konzeption bis zum produktiven Einsatz kann jedoch eine Menge schiefgehen.",
+            "url": "https://www.heise.de/hintergrund/Agile-Softwareentwicklung-Best-Practices-fuer-Software-Systemschnittstellen-9820439.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/3/8/9/7/aufmacher_agileschnittstellen_digital-47d0c494d7431ac6.png",
+            "publishedAt": "2024-08-05T10:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nSchnittstellen zwischen Softwaresystemen bilden die Nervenbahnen jedes Systemverbunds. Nur mit ihnen ist eine system\u00fcbergreifende Automatisierung von Prozessen m\u00f6glich. Schnittste\u2026 [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ilona Krause",
+            "title": "heise-Angebot: iX-Workshop: Cloud-Landing-Zones: Aufbau einer modernen Cloud-Umgebung",
+            "description": "Erfahren Sie, wie Sie mit einer Landing Zone eine sichere, effiziente und skalierbare Cloud-Umgebung entwerfen und implementieren k\u00f6nnen.",
+            "url": "https://www.heise.de/news/iX-Workshop-Cloud-Landing-Zones-Aufbau-einer-modernen-Cloud-Umgebung-9821365.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/4/3/7/9/Cloud-Landing-Zone-Ticker-Header-16-9-b1616595745f8802.png",
+            "publishedAt": "2024-08-09T10:00:00Z",
+            "content": "Unternehmen setzen auf die Flexibilit\u00e4t, Skalierbarkeit und Kosteneffizienz von Cloud-Plattformen. Um diese Vorteile voll aussch\u00f6pfen zu k\u00f6nnen, bedarf es jedoch einer strukturierten Planung und Impl\u2026 [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ulrich Wolf",
+            "title": "heise-Angebot: S2N \u2013 Konferenz zu Storage, Server, Network: Fr\u00fchbucher-Rabatt verl\u00e4ngert",
+            "description": "Noch bis zum 3. September gibt es  die g\u00fcnstigen Early-Bird-Tickets f\u00fcr die zweit\u00e4gige heise-Konferenz S2N. Sie startet am 9. Oktober in Hamburg.",
+            "url": "https://www.heise.de/news/S2N-Konferenz-zu-Storage-Server-Network-Fruehbucher-Rabatt-verlaengert-9838867.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/3/6/9/6/S2N_1920x1080_hoTicker_header2-d05fc7227410590b-b8ec4d58e8956a53.webp",
+            "publishedAt": "2024-08-19T12:00:00Z",
+            "content": "Am 9. und 10. Oktober findet in Hamburg die storage2day statt, die zweit\u00e4gige heise-Konferenz f\u00fcr Storage, Server und Netzwerke. Sie richtet sich an Systemadministratoren und Systemarchitekten, RZ-/I\u2026 [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Jens S\u00f6ldner",
+            "title": "HPE will Cloud-Management-Spezialisten Morpheus Data schlucken",
+            "description": "Technik von Morpheus Data hatte HPE ohnehin schon im Cloud-Backend \u2013 nun m\u00f6chte der Enterprise-IT-Riese gleich das ganze Unternehmen \u00fcbernehmen.",
+            "url": "https://www.heise.de/news/HPE-will-Cloud-Management-Spezialisten-Morpheus-Data-schlucken-9841813.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/5/3/4/5/shutterstock_2117092286-4babe14a1a8767f2.jpg",
+            "publishedAt": "2024-08-20T17:06:00Z",
+            "content": "Hewlett Packard Enterprise (HPE) will das auf Hybrid-Cloud-Management und Automatisierungsplattformen spezialisierte Unternehmen Morpheus Data \u00fcbernehmen. Morpheus Datas Software ist schon seit L\u00e4nge\u2026 [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Thomas Jannot",
+            "title": "Heise meets\u2026. Niedersachsen unterst\u00fctzt KMU mit Digital-Bonus und Start-up-Hilfe",
+            "description": "Digitalisierung ist laut Wirtschaftsminister Olaf Lies essenziell f\u00fcr die Transformation von Wirtschaft und Gesellschaft in Niedersachsen.",
+            "url": "https://www.heise.de/news/Heise-meets-Niedersachsen-unterstuetzt-KMU-mit-Digital-Bonus-und-Start-up-Hilfe-9849364.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/9/3/9/0/heise_meets_Keyvisual_1024x576_mitLogo-6c4e0219e34d0315.jpg",
+            "publishedAt": "2024-08-27T15:20:00Z",
+            "content": "Bei der Transformation gehe es nicht nur um Klimaschutz, \"aber der Schl\u00fcssel f\u00fcr die Transformation an ganz vielen Stellen ist die Digitalisierung\", sagt Olaf Lies, nieders\u00e4chsischer Minister f\u00fcr Wir\u2026 [+2918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Benjamin Pfister",
+            "title": "heise+ | Campus-Netzwerkhardware im Test: Cisco Catalyst Switches im Meraki Dashboard",
+            "description": "Cisco hat seiner Catalyst-Produktlinie die Schnittstelle der zugekauften Meraki-Switches verpasst. Wir zeigen, was das Cloud-Management umfasst und was fehlt.",
+            "url": "https://www.heise.de/tests/Campus-Netzwerkhardware-im-Test-Cisco-Catalyst-Switches-im-Meraki-Dashboard-9826544.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/7/1/1/7/tests_der_cisco_catalyst_switche_im_meraki_dashboard-d573a7221d19558f.png",
+            "publishedAt": "2024-08-08T11:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nSehr gr\u00fcndlich krempelt Cisco sein Netzwerkportfolio um und hebt die Trennung seiner Produktlinien auf. Durch das Zusammenlegen der Serien lassen sich die klassischen Catalyst-Swi\u2026 [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Benjamin Mamerow",
+            "title": "Google Chat erh\u00e4lt neue Integrationen: IFTTT und UKG Flow",
+            "description": "Google teilt mit, dass Google Chat neuerdings auch Integrationen mit IFTTT und UKG Flow erlaubt, was die eine nahtlose Automatisierung von Aufgaben erm\u00f6glichen soll. Die IFTTT-Integration \u00f6ffnet die T\u00fcr zu \u00fcber 1.000 Apps, was bedeutet, dass Chat-Nutzer jetzt\u2026",
+            "url": "https://stadt-bremerhaven.de/google-chat-erhaelt-neue-integrationen-ifttt-und-ukg-flow/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/08/google-chat-IFTTT-integration.jpg",
+            "publishedAt": "2024-08-28T08:45:43Z",
+            "content": "Google teilt mit, dass Google Chat neuerdings auch Integrationen mit IFTTT und UKG Flow erlaubt, was die eine nahtlose Automatisierung von Aufgaben erm\u00f6glichen soll. Die IFTTT-Integration \u00f6ffnet die \u2026 [+1978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Andr\u00e9 Westphal",
+            "title": "Box \u00fcbernimmt das europ\u00e4ische KI-Startup Alphamoon",
+            "description": "Box ist ein Unternehmen, das sich auf Gesch\u00e4ftskunden spezialisiert hat. F\u00fcr diese bietet man Cloud-Dienstleistungen und File-Sharing-Tools an. Jetzt hat das US-Unternehmen best\u00e4tigt, dass man das polnische KI-Startup Alphamoon \u00fcbernimmt. Jenes wurde von der \u2026",
+            "url": "https://stadt-bremerhaven.de/box-uebernimmt-das-europaeische-ki-startup-alphamoon/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/08/Alphamoon-Box.jpg",
+            "publishedAt": "2024-08-09T08:30:01Z",
+            "content": "Box ist ein Unternehmen, das sich auf Gesch\u00e4ftskunden spezialisiert hat. F\u00fcr diese bietet man Cloud-Dienstleistungen und File-Sharing-Tools an. Jetzt hat das US-Unternehmen best\u00e4tigt, dass man das po\u2026 [+2940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Krempl",
+            "title": "Einzelhandel: Selbstbedienungskassen zunehmend verbreitet und gefragt\u200b",
+            "description": "2023 boten \u00fcber 5000 Gesch\u00e4fte hierzulande einen Self-Check-out an, doppelt so viele wie 2021. Laut einer Umfrage scannen Kunden dort auch verst\u00e4rkt selbst.\u200b",
+            "url": "https://www.heise.de/news/Einzelhandel-Selbstbedienungskassen-zunehmend-verbreitet-und-gefragt-9836685.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/2/5/3/7/shutterstock_414451573-e336255fd000eae9.jpg",
+            "publishedAt": "2024-08-15T17:28:00Z",
+            "content": "Im Super- oder im Baumarkt sowie sogar beim Kleider-Shoppen: In immer mehr Filialen des station\u00e4ren Einzelhandels gibt es Selbstbedienungskassen. 2023 warteten laut einer Markterhebung des K\u00f6lner Han\u2026 [+3643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Sponsor [Anzeige]",
+            "title": "Zeit sparen und Fehler vermeiden: Automatisierte Buchhaltungstools f\u00fcr wachsende Unternehmen",
+            "description": "In der heutigen dynamischen Gesch\u00e4ftswelt stehen Unternehmen vor der Herausforderung, ihre Buchhaltung effizient und fehlerfrei zu organisieren. Mit dem Wachstum eines Unternehmens steigt nicht nur die Anzahl der Transaktionen, sondern auch die Komplexit\u00e4t de\u2026",
+            "url": "https://www.basicthinking.de/blog/2024/08/14/automatisierte-buchhaltungstools-fuer-wachsende-unternehmen/",
+            "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2024/08/automatisierte-buchhaltungstools-stotax.jpg",
+            "publishedAt": "2024-08-14T09:00:55Z",
+            "content": "In der heutigen dynamischen Gesch\u00e4ftswelt stehen Unternehmen vor der Herausforderung, ihre Buchhaltung effizient und fehlerfrei zu organisieren. Mit dem Wachstum eines Unternehmens steigt nicht nur d\u2026 [+7534 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "Nachrichtendienste: Spionage in Forschung - Gefahr bestehe auf hohem Niveau",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eNachrichtendienste\u201c. Lesen Sie jetzt \u201eSpionage in Forschung - Gefahr bestehe auf hohem Niveau\u201c.",
+            "url": "https://www.zeit.de/news/2024-08/16/spionage-in-forschung-gefahr-bestehe-auf-hohem-niveau",
+            "urlToImage": "https://img.zeit.de/news/2024-08/16/spionage-in-forschung-gefahr-bestehe-auf-hohem-niveau-image-group/wide__1300x731",
+            "publishedAt": "2024-08-15T23:40:36Z",
+            "content": "Hessische Forschungseinrichtungen stehen nach Einsch\u00e4tzung der Landesregierung weiterhin im Fokus von Spionage durch ausl\u00e4ndische Nachrichtendienste. \u00abDie Gefahr besteht auf anhaltend hohem Niveau\u00bb, \u2026 [+2584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "caschy",
+            "title": "GoodLinks 2.0 ver\u00f6ffentlicht",
+            "description": "GoodLinks ist eine \u201eRead-it-later\u201c-App f\u00fcr iOS und macOS. Sie erm\u00f6glicht es Benutzern, Links zu speichern, zu organisieren, anzuzeigen und ger\u00e4te\u00fcbergreifend zu synchronisieren, ohne dass ein Konto erstellt werden muss. GoodLinks bietet ein ablenkungsfreies L\u2026",
+            "url": "https://stadt-bremerhaven.de/goodlinks-2-0-veroeffentlicht/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/07/good-links.jpg",
+            "publishedAt": "2024-07-29T14:45:41Z",
+            "content": "GoodLinks ist eine \u201eRead-it-later\u201c-App f\u00fcr iOS und macOS. Sie erm\u00f6glicht es Benutzern, Links zu speichern, zu organisieren, anzuzeigen und ger\u00e4te\u00fcbergreifend zu synchronisieren, ohne dass ein Konto e\u2026 [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "tagesschau.de"
+            },
+            "author": "tagesschau.de",
+            "title": "Geplanter Stellenabbau: Deutsche Bahn will \"nicht am Kunden\" sparen",
+            "description": "Die Bahn plant in den kommenden Jahren Zehntausende Stellen abzubauen. Der DB-Konzern sichert aber zu, f\u00fcr den Bahnbetrieb n\u00f6tige Besch\u00e4ftigte \"ohne Wenn und Aber\" einzustellen.",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-stellenabbau-lutz-evg-arbeitnehmer-jobverlust-entlassungen-100.html",
+            "urlToImage": "https://images.tagesschau.de/image/50fc8f28-fff7-4096-96eb-cfba26d6de19/AAABkX9DTbU/AAABkUqnCZ0/16x9-1280/bahn-808.jpg",
+            "publishedAt": "2024-08-23T13:36:38Z",
+            "content": "Stand: 23.08.2024 15:36 Uhr\r\nDie Bahn plant in den kommenden Jahren Zehntausende Stellen abzubauen. Der DB-Konzern sichert aber zu, f\u00fcr den Bahnbetrieb n\u00f6tige Besch\u00e4ftigte \"ohne Wenn und Aber\" einzus\u2026 [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Hartmut Gieselmann",
+            "title": "Tesla legt Ausbau des Werks in Gr\u00fcnheide auf Eis",
+            "description": "DIe Nachfrage nach E-Autos sinkt, vor der Haust\u00fcr protestieren B\u00fcrgerinitiativen und Umweltsch\u00fctzer: Tesla will mit dem Ausbau seines  Werks erstmal abwarten.",
+            "url": "https://www.heise.de/news/Tesla-legt-Ausbau-des-Werks-in-Gruenheide-auf-Eis-9823059.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/5/2/7/4/tesla-577c0a71166e1ec3.jpg",
+            "publishedAt": "2024-08-03T13:25:00Z",
+            "content": "Inhaltsverzeichnis\r\nProtest, Produktionsstillstand, Probleme am Markt: US-Elektroautobauer Tesla f\u00e4hrt in diesem Jahr in Deutschland gegen wachsende Widerst\u00e4nde an. Das Unternehmen h\u00e4lt zwar grunds\u00e4t\u2026 [+5680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Quartalszahlen: Siemens steigert Gewinn trotz Schw\u00e4che bei Automatisierung",
+            "description": "Siemens hat im abgelaufenen Quartal deutlich besser verdient als vor einem Jahr. Ein Filetst\u00fcck des Konzerns leidet allerdings weiter unter schwacher Nachfrage.",
+            "url": "https://www.stern.de/wirtschaft/news/quartalszahlen--siemens-steigert-gewinn-trotz-schwaeche-bei-automatisierung-34961478.html",
+            "urlToImage": "https://image.stern.de/34961858/t/-E/v1/w1440/r1.7778/-/08--zivdkzxqizv6axw800h600jpeg---93d8b930c2c70eb2.jpg",
+            "publishedAt": "2024-08-08T08:13:52Z",
+            "content": "Siemens hat im abgelaufenen Quartal deutlich besser verdient als vor einem Jahr. Ein Filetst\u00fcck des Konzerns leidet allerdings weiter unter schwacher Nachfrage.\r\nDie Gewinne bei Siemens sprudeln trot\u2026 [+3253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Isabel Gr\u00fcnewald",
+            "title": "KI-Update kompakt: Microsoft Recall, DeepMind, Apple Roboter, Programmieren",
+            "description": "Das \"KI-Update\" liefert werkt\u00e4glich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+            "url": "https://www.heise.de/news/KI-Update-kompakt-Microsoft-Recall-DeepMind-Apple-Roboter-Programmieren-9847487.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/5/8/3/7/2/KIupdate_Titel_122023-4cd1ddee68e292c6.png",
+            "publishedAt": "2024-08-26T13:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nMicrosoft plant, sein KI-gest\u00fctztes Computer-Ged\u00e4chtnis Recall ab Oktober f\u00fcr Teilnehmer des Windows-Insider-Programms mit Copilot+-PCs wieder verf\u00fcgbar zu machen. Recall speicher\u2026 [+7881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComputerBase"
+            },
+            "author": "Max Doll",
+            "title": "Counter Strike 2: Valve kickt Spieler mit Hilfen von Razer und Wooting",
+            "description": "Neue Features von Razer und Wooting helfen Spielern in Shootern beim Ausweichen und Bewegen. Valve sieht damit eine Grenze \u00fcberschritten. Snap Tap und Rappy Snappy sind in Counter Strike 2 deshalb k\u00fcnftig verboten.",
+            "url": "https://www.computerbase.de/2024-08/counter-strike-2-valve-kickt-spieler-mit-hilfen-von-razer-und-wooting/",
+            "urlToImage": "https://pics.computerbase.de/1/1/3/6/8/0-bb97b50a69ee7f96/article-1280x720.251c419b.jpg",
+            "publishedAt": "2024-08-21T05:59:00Z",
+            "content": "Neue Features von Razer und Wooting helfen Spielern in Shootern beim Ausweichen und Bewegen. Valve sieht damit eine Grenze \u00fcberschritten. Snap Tap und Rappy Snappy sind in Counter Strike 2 deshalb k\u00fc\u2026 [+2686 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "Elektroautos: Tesla l\u00e4sst Zeitplan f\u00fcr Ausbau in Gr\u00fcnheide offen",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eElektroautos\u201c. Lesen Sie jetzt \u201eTesla l\u00e4sst Zeitplan f\u00fcr Ausbau in Gr\u00fcnheide offen\u201c.",
+            "url": "https://www.zeit.de/news/2024-08/03/tesla-laesst-zeitplan-fuer-ausbau-in-gruenheide-offen",
+            "urlToImage": "https://img.zeit.de/news/2024-08/03/tesla-laesst-zeitplan-fuer-ausbau-in-gruenheide-offen-image-group/wide__1300x731",
+            "publishedAt": "2024-08-03T04:30:37Z",
+            "content": "Protest, Produktionsstillstand, Probleme am Markt: US-Elektroautobauer Tesla f\u00e4hrt in diesem Jahr in Deutschland gegen wachsende Widerst\u00e4nde an. Das Unternehmen h\u00e4lt an den Ausbaupl\u00e4nen f\u00fcr seine ein\u2026 [+6104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onlinemarketing.de"
+            },
+            "author": "Gastautor:in",
+            "title": "7 Tipps zu Performance Max: So bekommst du Googles KI-Kampagnen in den Griff",
+            "description": "Performance Max ist ein stark auf Automatisierung ausgerichtetes Google-Kampagnenformat, das dank K\u00fcnstlicher Intelligenz dem Werbetreibenden viele Entscheidungen abnimmt. Im Text findest du Tipps, mit denen Marketing-Verantwortliche alle relevanten Entscheid\u2026",
+            "url": "https://onlinemarketing.de/performance-marketing/7-tipps-performance-max-ki",
+            "urlToImage": "https://onlinemarketing.de/wp-content/uploads/2024/02/Google-Performance-Max-Kampagne.png",
+            "publishedAt": "2024-08-15T13:02:00Z",
+            "content": "Performance Max ist ein stark auf Automatisierung ausgerichtetes Google-Kampagnenformat, das dank K\u00fcnstlicher Intelligenz dem Werbetreibenden viele Entscheidungen abnimmt. Im Text findest du Tipps, m\u2026 [+7168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Dennis Schirrmacher",
+            "title": "Kritische Sicherheitsl\u00fccke bedroht Unternehmenssoftware Apache OFBiz",
+            "description": "Angreifer k\u00f6nnen Systeme mit Apache OFBiz attackieren und eigenen Code ausf\u00fchren. Eine dagegen abgesicherte Version steht zum Download bereit.",
+            "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-Unternehmenssoftware-Apache-OFBiz-9824150.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/5/8/4/0/shutterstock_1571734357-26f48c63d404c3a0.jpg",
+            "publishedAt": "2024-08-05T10:25:00Z",
+            "content": "Unter bestimmten Umst\u00e4nden k\u00f6nnen Angreifer eine als kritisch eingestufte Sicherheitsl\u00fccke in Apache OFBiz ausnutzen.\r\nOFBiz ist Open Source. Die \"Enterprise Resource Planning\"-Software (ERP) hilft u\u2026 [+642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "Jakob Freund",
+            "title": "Drei gro\u00dfe Potenziale: So beschleunigt KI die Automatisierung",
+            "description": "GenAI und andere Auspr\u00e4gungen von K\u00fcnstlicher Intelligenz k\u00f6nnen die Prozessautomatisierung deutlich vorantreiben.",
+            "url": "https://www.computerwoche.de/a/so-beschleunigt-ki-die-automatisierung,3699012?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3397874/640x360.jpg",
+            "publishedAt": "2024-08-02T03:33:00Z",
+            "content": "Neben Github Copilot und anderen GenAI-Tools gibt es noch weitere, um die Automatisierung voranzutreiben.Foto: Mehaniq - shutterstock.com\r\nDer Bereich der k\u00fcnstlichen Intelligenz (KI) hat die gesamte\u2026 [+4257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessinsider.de"
+            },
+            "author": "Alex Hofmann",
+            "title": "H Company: Drei der f\u00fcnf Gr\u00fcnder des Vorzeige-KI-Startups gehen",
+            "description": "Erst im Mai 2024 erhielt H Company \u2013 zuvor Holistic AI \u2013 stolze 220 Millionen. Nur wenige Monate sp\u00e4ter gibt es Zwist im Gr\u00fcnderteam.",
+            "url": "https://www.businessinsider.de/gruenderszene/technologie/h-company-drei-der-fuenf-gruender-des-vorzeige-ki-startups-gehen/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2024/08/h-company-gruender-gehen.jpg?ver=1724658325",
+            "publishedAt": "2024-08-26T08:38:19Z",
+            "content": "Erst im Mai 2024 erhielt H Company zuvor Holistic AI stolze 220 Millionen. Nur wenige Monate sp\u00e4ter gibt es Meinungsverschiedenheiten im Gr\u00fcnderteam.Beim franz\u00f6sischen KI-Hoffnungstr\u00e4ger H Company kr\u2026 [+2601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameStar"
+            },
+            "author": "Dennis Zirkler",
+            "title": "Der deutsche Factorio Shapez 2 startet im Early Access auf Steam durch",
+            "description": "In Shapez 2 geht es darum, futuristische Weltraumfabriken zu bauen, die Formen zerlegen und in v\u00f6llig neue Strukturen verwandeln k\u00f6nnen. Das Spiel bietet unendliche Ressourcen und kostenlose Geb\u00e4ude, damit ihr euch vollkommen auf die perfekte Automatisierung \u2026",
+            "url": "https://www.gamestar.de/videos/der-deutsche-factorio-shapez-2-startet-im-early-access-auf-steam-durch,132093.html",
+            "urlToImage": "https://images.cgames.de/images/gamestar/4/videoimage_6305021.jpg",
+            "publishedAt": "2024-08-16T04:19:00Z",
+            "content": "In Shapez 2 geht es darum, futuristische Weltraumfabriken zu bauen, die Formen zerlegen und in v\u00f6llig neue Strukturen verwandeln k\u00f6nnen. Das Spiel bietet unendliche Ressourcen und kostenlose Geb\u00e4ude,\u2026 [+676 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComputerBase"
+            },
+            "author": "Nicolas La Rocco",
+            "title": "Machine-Learning-Benchmark: Geekbench AI 1.0 ist fertig und l\u00e4uft auf vielen Plattformen",
+            "description": "Die Entwickler des Geekbench zur Ermittlung der CPU-Leistung haben mit ihrem bisherigen Machine-Learning-Benchmark Geekbench ML jetzt die Version 1.0 erreicht und dabei eine Umbenennung zu Geekbench AI vollzogen. Der Benchmark soll auf allen unterst\u00fctzten Pla\u2026",
+            "url": "https://www.computerbase.de/2024-08/machine-learning-benchmark-geekbench-ai-1-0-ist-fertig-und-laeuft-auf-vielen-plattformen/",
+            "urlToImage": "https://pics.computerbase.de/1/1/3/6/2/7-b1b692f51ac065eb/article-1280x720.7b745bb9.jpg",
+            "publishedAt": "2024-08-16T12:14:00Z",
+            "content": "Die Entwickler des Geekbench zur Ermittlung der CPU-Leistung haben mit ihrem bisherigen Machine-Learning-Benchmark Geekbench ML jetzt die Version 1.0 erreicht und dabei eine Umbenennung zu Geekbench \u2026 [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Maria Gramsch",
+            "title": "Facebook bezahlte Nutzer f\u00fcr KI-Spam \u2013\u00a0\u00fcber Bonus-Programm",
+            "description": "Das Bonus-Programm f\u00fcr Creator hat die Entstehung von KI-Spam bei Facebook vorangetrieben. Eine Recherche von 404 Media hat nun die Maschinerie hinter der Spam-Produktion aufgedeckt. Nutzer:innen, die Ihre Konten bei Facebook regelm\u00e4\u00dfig Beitr\u00e4ge ver\u00f6ffentlich\u2026",
+            "url": "https://www.basicthinking.de/blog/2024/08/09/facebook-ki-spam/",
+            "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2024/08/facebok-ki-spam.jpg",
+            "publishedAt": "2024-08-09T10:55:40Z",
+            "content": "Das Bonus-Programm f\u00fcr Creator hat die Entstehung von KI-Spam bei Facebook vorangetrieben. Eine Recherche von 404 Media hat nun die Maschinerie hinter der Spam-Produktion aufgedeckt.\r\nNutzer:innen, d\u2026 [+2953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Team",
+            "title": "#Brandneu - 5 neue Startups: Validation Cloud, BlendLane, TestResults.io, flipsight, Userwill",
+            "description": "Es ist wieder Zeit f\u00fcr neue Startups! Hier einige ganz junge Startups, die jeder kennen sollte. Heute stellen wir diese Jungfirmen vor: Validation Cloud, BlendLane, TestResults.io, flipsight und Userwill.",
+            "url": "https://www.deutsche-startups.de/2024/07/30/neue-startups-blendlane-flipsight/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2016/07/ds-startups-neu3.jpg",
+            "publishedAt": "2024-07-30T11:55:00Z",
+            "content": "deutsche-startups.de pr\u00e4sentiert heute wieder einmal einige junge Startups, die zuletzt, also in den vergangenen Wochen und Monaten, an den Start gegangen sind, sowie Firmen, die vor Kurzem aus dem S\u2026 [+2204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diepresse.com"
+            },
+            "author": "Aloysius Widmann",
+            "title": "Macht k\u00fcnstliche Intelligenz das Internet kaputt? [premium]",
+            "description": "Wer Wissen ins Internet stellt, will, dass Menschen die eigene Seite besuchen \u2013 und nicht nur Maschinen. \u00dcber die fortschreitende Automatisierung im Internet und ihre Folgen.",
+            "url": "https://www.diepresse.com/18758948/macht-kuenstliche-intelligenz-das-internet-kaputt",
+            "urlToImage": "https://img.diepresse.com/public/incoming/jpg0s2-FILES-US-TECH-GOOGLE-AI/alternates/DPR_SOCIAL_MAGAZIN/FILES-US-TECH-GOOGLE-AI",
+            "publishedAt": "2024-08-16T03:32:17Z",
+            "content": "Wer Wissen ins Internet stellt, will, dass Menschen die eigene Seite besuchen und nicht nur Maschinen. \u00dcber die fortschreitende Automatisierung im Internet und ihre Folgen.\r\nWien. Nun also auch OpenA\u2026 [+1248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Team",
+            "title": "#StartupsToWatch - 5 spannende Startups aus Stuttgart, die alle kennen sollten",
+            "description": "Stuttgart ist immer eine Startup-Reise wert. Deswegen blicken wir heute wieder einmal auf die Digital-Szene in Stuttgart und stellen mit Ascon Systems, asellerate, assemblio, Metergrid\u00a0und UpVisit f\u00fcnf aufstrebende Startups vor, die mehr Menschen kennen sollt\u2026",
+            "url": "https://www.deutsche-startups.de/2024/08/26/startupstowatch-stuttgart-ascon-systems/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2015/12/ds-stuttgart-schlossplatz.jpg",
+            "publishedAt": "2024-08-26T06:45:09Z",
+            "content": "In der\u00a0Schwabenmetropole\u00a0Stuttgart\u00a0ist in den vergangenen Jahren eine \u00e4u\u00dferst lebendige Startup-Szene entstanden. Mit spannenden Grownups, aufstrebenden Scaleups und zahlreichen jungen Startups. Denn\u2026 [+3079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iphone-ticker.de \u203a iPhone-News seit 2007"
+            },
+            "author": "chris",
+            "title": "Philips Hue App erh\u00e4lt globale Suchfunktion und neue Schalteroptionen",
+            "description": "Die Produkte aus dem Sortiment von Philips Hue kosten zwar in der Regel etwas mehr, daf\u00fcr d\u00fcrfen sich Nutzer des Beleuchtung- (und mittlerweile auch Alarmsystems) aber \u00fcber regelm\u00e4\u00dfige Funktionserweiterungen freuen. So auch wieder im Rahmen der neu ver\u00f6ffentl\u2026",
+            "url": "https://www.iphone-ticker.de/philips-hue-app-erhaelt-globale-suchfunktion-und-neue-schalteroptionen-239595/",
+            "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2024/08/philips-hue-app-suche-feature.jpg",
+            "publishedAt": "2024-08-07T04:58:26Z",
+            "content": "Die Produkte aus dem Sortiment von Philips Hue kosten zwar in der Regel etwas mehr, daf\u00fcr d\u00fcrfen sich Nutzer des Beleuchtung- (und mittlerweile auch Alarmsystems) aber \u00fcber regelm\u00e4\u00dfige Funktionserwei\u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Team",
+            "title": "#Brandneu - 6 neue Startups: Frontline, onestephost, Nesoma, Mimic, Cerpro, Vocabuddy",
+            "description": "Es ist wieder Zeit f\u00fcr neue Startups! Hier einige ganz junge Startups, die jeder kennen sollte. Heute stellen wir diese Jungfirmen vor: Frontline, onestephost, Nesoma, Mimic, Cerpro und Vocabuddy.",
+            "url": "https://www.deutsche-startups.de/2024/08/05/neue-startups-frontline-onestephost/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2016/09/neu.jpg",
+            "publishedAt": "2024-08-05T11:55:30Z",
+            "content": "deutsche-startups.de pr\u00e4sentiert heute wieder einmal einige junge Startups, die zuletzt, also in den vergangenen Wochen und Monaten, an den Start gegangen sind, sowie Firmen, die k\u00fcrzlich aus dem Ste\u2026 [+2650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Team",
+            "title": "#Brandneu - 7 neue Startups: Axmed, Alva, Zive, hexafarms, adavision, Calefy, Silana",
+            "description": "Es ist wieder Zeit f\u00fcr neue Startups! Hier einige ganz junge Startups, die jeder kennen sollte. Heute stellen wir diese Jungunternehmen vor: Axmed, Alva, Zive, hexafarms, adavision, Calefy und Silana.",
+            "url": "https://www.deutsche-startups.de/2024/07/31/7-neue-startups-axmed-alva-zive-hexafarms-adavision-calefy-silana/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2016/05/3neueStartups.jpg",
+            "publishedAt": "2024-07-31T11:55:42Z",
+            "content": "deutsche-startups.de pr\u00e4sentiert heute wieder einmal einige junge Startups, die zuletzt, also in den vergangenen Wochen und Monaten, an den Start gegangen sind, sowie Firmen, die vor Kurzem aus dem S\u2026 [+2842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Dominik Feldges (df)",
+            "title": "Der Musterknabe Tecan erlebt einen j\u00e4hen Absturz",
+            "description": "Die Z\u00fcrcher Firma Tecan fand mit ihren Ger\u00e4ten f\u00fcr medizinische Labors w\u00e4hrend der Pandemie reissenden Absatz. Doch diese Gesch\u00e4fte sind weg, und nun schieben auch sonst zahlungskr\u00e4ftige\u00a0Kunden aus der Pharmaindustrie Investitionen auf.",
+            "url": "https://www.nzz.ch/wirtschaft/tecan-der-zuercher-laborausruester-erlebt-einen-jaehen-absturz-ld.1843497",
+            "urlToImage": "https://img.nzz.ch/2021/8/18/eb107417-d53e-4ca0-97d1-0bff35c54435.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3908,2198,x0,y203&wmark=nzz",
+            "publishedAt": "2024-08-13T14:55:42Z",
+            "content": "Die hohen Investitionen von Labors w\u00e4hrend der Corona-Pandemie sorgten bei Tecan f\u00fcr eine Flut von Auftr\u00e4gen. Nun sind diese Gesch\u00e4fte versiegt.\r\nDer Z\u00fcrcher Laborausr\u00fcster Tecan ist in der breiten \u00d6\u2026 [+5323 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": null,
+            "title": "Kollaborative Roboter: Wie kleine Unternehmen damit ihre Automatisierung vorantreiben k\u00f6nnen",
+            "description": "\u201eKollaborative\u201c Roboter, sogenannte Cobots, machen die Automatisierung auch f\u00fcr kleine Unternehmen erschwinglich. Doch das geht nicht ohne Kompromisse.weiterlesen auf t3n.de",
+            "url": "https://t3n.de/news/kollaborative-roboter-wie-kleine-unternehmen-damit-ihre-automatisierung-vorantreiben-koennen-1642769/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/08/fa0524_5_digital.jpg",
+            "publishedAt": "2024-08-28T07:45:31Z",
+            "content": "Brauchst du zuf\u00e4llig gerade einen Roboter, der Bier zapft? Geht mit Hardware f\u00fcr genau 6006,50 Euro. M\u00f6chtest du eine Designerlampe automatisch zusammenkleben lassen? Macht 9124,42 Euro. Oder Krapfen\u2026 [+13768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Alexander H\u00fcsing",
+            "title": "#Interview - \u201cUnser urspr\u00fcngliches Gesch\u00e4ftsmodell war nicht skalierbar\u201d",
+            "description": "Das Dresdener Robotik-Grownup Wandelbots krempelte sein Gesch\u00e4ftsmodell komplett um und trennte sich dabei vom Handwaregesch\u00e4ft. \"Dieser Kurswechsel war schmerzhaft, aber notwendig, um unsere Vision zu verwirklichen\", sagt Gr\u00fcnder Christian Piechnick.",
+            "url": "https://www.deutsche-startups.de/2024/08/26/wandelbots-pivot-hardware/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2024/08/ds-Christian-Piechnick.jpg",
+            "publishedAt": "2024-08-26T11:55:51Z",
+            "content": "Das No-Code-Startup Wandelbots, das Roboter programmiert, galt als aufsteigender Stern am Startup-Himmel.\u00a0Insight Partners, 83North, Microsoft, Next47 und Co. investierten in den vergangenen Jahren r\u2026 [+9230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Stellenabbau bei der Bahn: Deutsche Bahn: Kein Stellenabbau im Zugbetrieb",
+            "description": "Die Bahn muss sparen und will in den kommenden Jahren rund 30.000 Stellen abbauen. Der Gewerkschaft EVG hat Konzernchef Lutz nun zugesichert, dass der direkte Betrieb davon verschont bleibt.",
+            "url": "https://www.stern.de/wirtschaft/news/stellenabbau-bei-der-bahn--deutsche-bahn--kein-unmittelbarer-stellenabbau-im-zugbetrieb-35003352.html",
+            "urlToImage": "https://image.stern.de/35003458/t/sL/v1/w1440/r1.7778/-/23--rnkappfafmv13axw800h600jpeg---bce42c7ae071acad.jpg",
+            "publishedAt": "2024-08-23T10:31:53Z",
+            "content": "Die Bahn muss sparen und will in den kommenden Jahren rund 30.000 Stellen abbauen. Der Gewerkschaft EVG hat Konzernchef Lutz nun zugesichert, dass der direkte Betrieb davon vorerst verschont bleibt.\r\u2026 [+2039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Von FOCUS-online-Autorin Carin Pawlak",
+            "title": "TV-Kolumne \u201eDie fetten Jahre sind vorbei\u201c - Jammern hilft nicht \u2013 trotz Ampel-Politik muss die Wirtschaft richtig anpacken",
+            "description": "Alle jammern: Die fetten Jahre der deutschen Wirtschaft sind vorbei. Das ZDF \u00fcberrascht mit Unternehmern, die einfach anpacken und Erfolg haben \u2013 obwohl von der Ampelregierung wenig Unterst\u00fctzung kommt.Von FOCUS-online-Autorin Carin Pawlak",
+            "url": "https://www.focus.de/kultur/kino_tv/tv-kolumne-die-fetten-jahre-sind-vorbei-jammern-hilft-nicht-trotz-ampel-politik-muss-die-wirtschaft-richtig-anpacken_id_260214463.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_260214500/screenshot-2024-08-11-130347.png?im=Crop%3D%280%2C53%2C1822%2C912%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=f2234f5306acb782880d56ec264958a736d4b03317857eb6fd377ca0dd75af81",
+            "publishedAt": "2024-08-11T11:25:52Z",
+            "content": "Alle jammern: Die fetten Jahre der deutschen Wirtschaft sind vorbei. Das ZDF \u00fcberrascht mit Unternehmern, die einfach anpacken und Erfolg haben obwohl von der Ampelregierung wenig Unterst\u00fctzung kommt\u2026 [+4584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netzpolitik.org"
+            },
+            "author": "Esther Menhard",
+            "title": "Digital unsouver\u00e4n: Bundesregierung legt sich an Broadcoms Kette",
+            "description": "Der Bund ist abh\u00e4ngig von der Broadcom-Tochter VMware, einen Wechsel zu Open-Source-L\u00f6sungen plant er nicht. (Symbolbild) \u2013 Alle Rechte vorbehalten IMAGO/Zoonar; Bearbeitung: netzpolitik.org\r\nDer Bund nutzt in vielen seiner Rechenzentren die Virtualisierungss\u2026",
+            "url": "https://netzpolitik.org/2024/digital-unsouveraen-bundesregierung-legt-sich-an-broadcoms-kette/",
+            "urlToImage": "https://cdn.netzpolitik.org/wp-upload/2024/08/vmware_digitale-souveraenit-1200x675.png",
+            "publishedAt": "2024-08-28T11:57:23Z",
+            "content": "Bundeskanzler Olaf Scholz (SPD) wirbt f\u00fcr eine Beh\u00f6rden-Cloud von SAP, Digitalminister Volker Wissing (FDP) entscheidet sich gr\u00f6\u00dftenteils gegen Open-Source-Software (OSS). Dabei hatte die Ampel-Regie\u2026 [+16971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Quartalszahlen: Siemens steigert Gewinn - Automatisierung schw\u00e4chelt",
+            "description": "Siemens hat im abgelaufenen Quartal deutlich besser verdient als vor einem Jahr - allerdings leidet ein Filetst\u00fcck des Konzerns weiter unter schwacher Nachfrage.",
+            "url": "https://www.stern.de/wirtschaft/news/quartalszahlen--siemens-steigert-gewinn---automatisierung-schwaechelt-34961478.html",
+            "urlToImage": "https://image.stern.de/34961480/t/1W/v1/w1440/r1.7778/-/08--n3ckgjiym6v11axw800h600jpeg---e751483765f0acca.jpg",
+            "publishedAt": "2024-08-08T05:00:37Z",
+            "content": "Siemens hat im abgelaufenen Quartal deutlich besser verdient als vor einem Jahr - allerdings leidet ein Filetst\u00fcck des Konzerns weiter unter schwacher Nachfrage.\r\nDie Gewinne bei Siemens sprudeln wie\u2026 [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Harald Weiss",
+            "title": "Unternehmensberater glauben weiterhin an die GenAI-Revolution in der IT-Branche",
+            "description": "Viele Branchen und Berufe wurden in den letzten Jahrzehnten durch IT umgekrempelt. Laut McKinsey und IDC trifft es wegen generativer KI jetzt die IT-Branche.",
+            "url": "https://www.heise.de/news/Unternehmensberater-glauben-weiterhin-an-die-GenAI-Revolution-in-der-IT-Branche-9821979.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/4/7/0/2/2024-02-26-Bing-Designer-Robot_Head_Globe_AI-2-3840px-ce923e6d08ec5bbb.png",
+            "publishedAt": "2024-08-03T06:01:00Z",
+            "content": "Laut McKinsey sollen in den kommenden drei Jahren bis zu 250 Milliarden US-Dollar in generative KI (GenAI) f\u00fcr die Automatisierung des IT-Betriebes investiert werden. Das betrifft vor allem die Codee\u2026 [+6728 chars]"
+        },
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Der Tagesspiegel",
+            "title": "Quartalszahlen: Siemens steigert Gewinn trotz Schw\u00e4che bei Automatisierung",
+            "description": "Siemens hat im abgelaufenen Quartal deutlich besser verdient als vor einem Jahr. Ein Filetst\u00fcck des Konzerns leidet allerdings weiter unter schwacher Nachfrage.",
+            "url": "https://www.tagesspiegel.de/wirtschaft/quartalszahlen-siemens-steigert-gewinn-trotz-schwache-bei-automatisierung-12163655.html",
+            "urlToImage": "https://www.tagesspiegel.de/images/12164480/alternates/BASE_16_9_W1400/1723104895000/siemens-vorstandschef-roland-busch.jpeg",
+            "publishedAt": "2024-08-08T05:02:01Z",
+            "content": "Die Gewinne bei Siemens sprudeln trotz eines Durchh\u00e4ngers im wichtigen Automatisierungsgesch\u00e4ft wieder kr\u00e4ftiger. Im dritten Quartal seines Gesch\u00e4ftsjahres verdiente der M\u00fcnchner Konzern unter dem St\u2026 [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Team",
+            "title": "#StartupsToWatch - 5 spannende Startups aus Leipzig, die alle kennen sollten",
+            "description": "Leipzig ist immer eine Startup-Reise wert. Deswegen blicken wir heute wieder einmal auf die Digital-Szene in Leipzig und stellen mit BirdsView, Cargobeamer, Peeriot, proSports.Zone und the nu company f\u00fcnf aufstrebende Startups vor, die mehr Menschen kennen so\u2026",
+            "url": "https://www.deutsche-startups.de/2024/08/21/startupstowatch-leipzig-birdsview/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2016/01/leipzig.jpg",
+            "publishedAt": "2024-08-21T06:45:17Z",
+            "content": "Die sch\u00f6ne Stadt\u00a0Leipzig\u00a0wird von vielen Menschen noch immer nicht als Startup-Metropole angesehen \u2013 obwohl Firmen wie Spreadshirt in \u201cLeipsch\u201d gegr\u00fcndet worden sind.\u00a0Und auch abgesehen von\u00a0Spreadshi\u2026 [+3847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "COMPUTERWOCHE",
+            "title": "KI wird zum festen Bestandteil der Personalarbeit: KI wird zum festen Bestandteil der Personalarbeit",
+            "description": "Ein neuer Report von ServiceNow zeigt, dass in digital fortgeschrittenen Unternehmen KI und GenAI l\u00e4ngst im Alltag der Personalabteilungen angekommen sind.",
+            "url": "https://www.computerwoche.de/a/ki-wird-zum-festen-bestandteil-der-personalarbeit,3699105?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3398141/640x360.jpg",
+            "publishedAt": "2024-08-22T03:15:00Z",
+            "content": "HR-Manager planen, auf eine Skills-basierte Personalstrategie umzusteigen, um fundierte Personalentscheidungen zu treffen.Foto: Ground Picture - shutterstock.com\r\nEs ist bereits seit etwa zwei Jahren\u2026 [+5257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Basicthinking.de"
+            },
+            "author": "Carsten Lexa",
+            "title": "KI-L\u00fccke: K\u00fcnstliche Intelligenz sorgt f\u00fcr eine noch tiefere \u201edigitale Kluft\u201c",
+            "description": "Der Begriff \u201edigitale Kluft\u201c ist seit langem Teil der Diskussion um die Digitalisierung. Er bezeichnet die Ungleichheit zwischen denjenigen, die Zugang zu digitalen Technologien und zum Internet haben, und denjenigen, die keinen Zugang dazu haben. Im Zeitalte\u2026",
+            "url": "https://www.basicthinking.de/blog/2024/08/08/ki-luecke-kuenstliche-intelligenz-sorgt-fuer-eine-noch-tiefere-digitale-kluft/",
+            "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2024/08/ki-luecke-digitale-kluft.jpg",
+            "publishedAt": "2024-08-08T15:00:18Z",
+            "content": "Der Begriff \u201edigitale Kluft\u201c ist seit langem Teil der Diskussion um die Digitalisierung. Er bezeichnet die Ungleichheit zwischen denjenigen, die Zugang zu digitalen Technologien und zum Internet habe\u2026 [+15489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Maclife.de"
+            },
+            "author": "J\u00fcrgen Gorglich",
+            "title": "Eve Energy Outdoor: Smarte Au\u00dfensteckdose jetzt erh\u00e4ltlich",
+            "description": "Eve Systems hat mit der Einf\u00fchrung von Eve Energy Outdoor eine neue smarte Au\u00dfensteckdose vorgestellt, die ab sofort erh\u00e4ltlich ist. Diese Aufputzsteckdose ist speziell f\u00fcr den Einsatz im Freien, in Garagen oder Kellerr\u00e4umen konzipiert. (Weiterlesen)",
+            "url": "https://www.maclife.de/news/eve-energy-outdoor-neue-smarte-steckdose-draussen-100124538.html",
+            "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2024_34/image-124538--4613691.jpg?itok=eoFOQwfe",
+            "publishedAt": "2024-08-20T14:50:38Z",
+            "content": "Die Steckdose\u00a0bietet durch die Matter-over-Thread-Technologie eine einfache und sichere Integration in das Smart Home. Der Preis betr\u00e4gt 79,95 Euro inklusive Mehrwertsteuer.\r\nQuickread: Auf einen Bli\u2026 [+1830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onlinemarketing.de"
+            },
+            "author": "Gastautor:in",
+            "title": "Digital Product Passports bis sp\u00e4testens 2030 eingef\u00fchrt: Herausforderungen und Chancen transparenter Wertsch\u00f6pfungsketten",
+            "description": "Der Digital Product Passport wird bis 2030 Transparenz und Nachhaltigkeit entlang der Wertsch\u00f6pfungskette f\u00f6rdern und Unternehmen Wettbewerbschancen er\u00f6ffnen. Er ist verpflichtend und ver\u00e4ndert den E-Commerce aufs Neue. Es lohnt sich also, sich fr\u00fch damit aus\u2026",
+            "url": "https://onlinemarketing.de/e-commerce/chancen-digital-product-passports-bis-2030-eingefuehrt",
+            "urlToImage": "https://onlinemarketing.de/wp-content/uploads/2024/07/Kopie-von-Titelbild-neu-92.png",
+            "publishedAt": "2024-07-29T14:18:13Z",
+            "content": "Der Digital Product Passport wird bis 2030 Transparenz und Nachhaltigkeit entlang der Wertsch\u00f6pfungskette f\u00f6rdern und Unternehmen Wettbewerbschancen er\u00f6ffnen. Er ist verpflichtend und ver\u00e4ndert den E\u2026 [+6267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "COMPUTERWOCHE",
+            "title": "Live Webcast: Technologien f\u00fcr die neue Arbeitswelt effektiv nutzen",
+            "description": "Mitarbeiterzufriedenheit und Produktivit\u00e4t gehen Hand in Hand. Ein CIO-Webcast zeigt, wie Technologie helfen kann, beide Aspekte zu verbessern und dabei Kosten zu senken.",
+            "url": "https://www.computerwoche.de/a/technologien-fuer-die-neue-arbeitswelt-effektiv-nutzen,3699058?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3382856/640x360.jpg",
+            "publishedAt": "2024-08-22T03:55:00Z",
+            "content": "Die digitale Transformation versetzt Unternehmen heute in die Lage, effizientere und flexiblere Arbeitsmodelle zu realisieren. Dies erfordert jedoch einen Wandel, wie Unternehmen Technologien, Workfl\u2026 [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Politik: Diese wirtschaftlichen Faktoren lassen Menschen AfD und BSW w\u00e4hlen",
+            "description": "Eine Untersuchung des DIW zeigt, welche wirtschaftlichen Lebensverh\u00e4ltnisse die Wahl von AfD und BSW beg\u00fcnstigt und worin sich dabei deren W\u00e4hler unterscheiden.",
+            "url": "https://www.stern.de/wirtschaft/afd-und-bsw--diese-wirtschaftlichen-faktoren-ziehen-waehler-an-34951946.html",
+            "urlToImage": "https://image.stern.de/34951948/t/zr/v4/w1440/r1.7778/-/stimmabgabe-afd-bsw.jpg",
+            "publishedAt": "2024-08-06T16:36:00Z",
+            "content": "06.08.2024, 18:36\r\n 2 Min.\r\nEine Untersuchung des DIW zeigt, welche wirtschaftlichen Lebensverh\u00e4ltnisse die Wahl von AfD und BSW beg\u00fcnstigt und worin sich dabei deren W\u00e4hler unterscheiden.\r\nDies ist \u2026 [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "dpa",
+            "title": "Quartalszahlen - Siemens steigert Gewinn, doch die Automatisierung schw\u00e4chelt",
+            "description": "Siemens hat im abgelaufenen Quartal deutlich besser verdient als vor einem Jahr. Allerdings leidet ein Filetst\u00fcck des Konzerns weiter unter schwacher Nachfrage.",
+            "url": "https://www.focus.de/finanzen/boerse/quartalszahlen-siemens-steigert-gewinn-doch-die-automatisierung-schwaechelt_id_260206134.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_260206133/siemens-chef-roland-busch.jpg?im=Crop%3D%280%2C170%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=a8c52ae2f989e4bdfdc8b97a80200210e256b1c5cc800e56b1f9b811e99d5b30",
+            "publishedAt": "2024-08-08T05:05:05Z",
+            "content": "Die Gewinne bei Siemens sprudeln wieder kr\u00e4ftiger. Im dritten Quartal seines Gesch\u00e4ftsjahres verdiente der M\u00fcnchner Konzern unter dem Strich gut 2,1 Milliarden Euro, wie er am Donnerstag mitteilte. D\u2026 [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deutsche-startups.de"
+            },
+            "author": "Team",
+            "title": "#Gastbeitrag - Warum KI die Venture Capital-Branche umkrempeln wird",
+            "description": "In der Venture Capital-Branche steht eine erhebliche Transformation bevor. K\u00fcnstliche Intelligenz wird den Wettbewerb unter Investor:innen drastisch erh\u00f6hen und pers\u00f6nliche Beziehungen zum noch relevanteren USP werden. Warum, erkl\u00e4rt dieser Gastbeitrag.",
+            "url": "https://www.deutsche-startups.de/2024/08/13/ki-die-venture-capital/",
+            "urlToImage": "https://www.deutsche-startups.de/app/uploads/2024/07/ds-AI-Robot_ki-e1721714758994.jpg",
+            "publishedAt": "2024-08-13T06:45:58Z",
+            "content": "K\u00fcnstliche Intelligenz (KI) ist ein Paradigmenwechsel, der nicht nur die allgemeinen Gesch\u00e4ftsprozesse, sondern auch spezifische Industrien revolutioniert. Besonders in der Venture Capital-Branche st\u2026 [+5080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onlinemarketing.de"
+            },
+            "author": "Niklas Lewanczik",
+            "title": "Reddit erh\u00e4lt KI-Suchergebnisse \u2013 auch mit Ads?",
+            "description": "KI-basierte Suchergebnisse sollen auf Reddit vorgeschlagene Inhalte zusammenfassen. Der Kauf eines AI-Ads-Unternehmens deutet auch auf eine Monetarisierung des Bereichs \u00fcber Ads hin.",
+            "url": "https://onlinemarketing.de/technologie/reddit-ki-suchergebnisse-ads",
+            "urlToImage": "https://onlinemarketing.de/wp-content/uploads/2024/02/Reddit-Logo-und-Schriftzug-rot-an-Wand-im-Office.png",
+            "publishedAt": "2024-08-07T09:38:00Z",
+            "content": "KI-basierte Suchergebnisse sollen auf Reddit vorgeschlagene Inhalte zusammenfassen. Der Kauf eines AI-Ads-Unternehmens deutet auch auf eine Monetarisierung des Bereichs \u00fcber Ads hin.\r\nSeit einigen Mo\u2026 [+3636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameStar"
+            },
+            "author": "Dennis Zirkler",
+            "title": "Neu bei Steam - Auf diesen Gratis-Shooter haben eine Million Menschen gewartet",
+            "description": "Entdeckt mit uns die spannendsten Steam Releases der Woche. Dieses Mal warten gleich mehrere hei\u00df erwarte Shooter und ein potenzieller Weltraumstrategie-Hit.",
+            "url": "https://www.gamestar.de/artikel/neu-bei-steam,3417787.html",
+            "urlToImage": "https://images.cgames.de/images/gamestar/4/neu-bei-steam_6304246.jpg",
+            "publishedAt": "2024-08-12T03:44:00Z",
+            "content": "In den Steam Releases der Woche lautet das Motto dieses Mal: Looten und Laser!\r\nDie gamescom 2024 n\u00e4hert sich mit gro\u00dfen Schritten und auch das viel zitierte Sommerloch neigt sich langsam dem Ende zu\u2026 [+4625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "N-tv.de"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "Kritik an K\u00fcrzungspl\u00e4nen: Bahn will bei Bedarf weiter einstellen",
+            "description": "Die Bahn muss sparen und will Zehntausende Stellen streichen. Das sorgt f\u00fcr Aufregung bei der Gewerkschaft EVG. Ein Treffen mit der Konzernspitze soll die Wogen gl\u00e4tten. So will das Unternehmen am Kunden und bei der Sicherheit nicht sparen und weiter einstell\u2026",
+            "url": "https://www.n-tv.de/wirtschaft/Bahn-will-bei-Bedarf-weiter-einstellen-article25178393.html",
+            "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop25178403/3031329474-cImg_16_9-w1200/466809322.jpg",
+            "publishedAt": "2024-08-23T13:30:08Z",
+            "content": "Die Bahn muss sparen und will Zehntausende Stellen streichen. Das sorgt f\u00fcr Aufregung bei der Gewerkschaft EVG. Ein Treffen mit der Konzernspitze soll die Wogen gl\u00e4tten. So will das Unternehmen am Ku\u2026 [+2392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techstage.de"
+            },
+            "author": "Kai Schmerer",
+            "title": "Pr\u00e4senzmelder mit mmWave-Radar: Aqara FP1E mit Matter-Support im Test",
+            "description": "Mit dem FP1E bringt Aqara nach dem FP2 einen neuen Pr\u00e4senzsensor mit mmWave-Radar. Der FP1E bietet nicht so viele Funktionen wie der FP2, ist daf\u00fcr aber g\u00fcnstiger.",
+            "url": "https://www.techstage.de/test/praesenzmelder-mit-mmwave-radar-aqara-fp1e-mit-matter-support-im-test/ydflrl0#article",
+            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/FqGktkpTURBXy9kZDNhODU2NDUzZjBiY2ZlMzBiN2M4OTJlYjAxMTNkMS5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2",
+            "publishedAt": "2024-08-07T12:37:00Z",
+            "content": "Wer Licht automatisch pr\u00e4zise steuern m\u00f6chte, kommt im smarten Heim nicht um die Anschaffung eines Radar-Pr\u00e4senzmelders herum. Mit mmWave-Radar ausgestattete Pr\u00e4senzsensoren k\u00f6nnen die Anwesenheit vo\u2026 [+8522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telepolis.de"
+            },
+            "author": "Steve Benford, Praminda Caleb-Solly",
+            "title": "Elon Musk verspricht humanoide Roboter f\u00fcr 2025 \u2013 aber brauchen wir sie wirklich?",
+            "description": "Die Vision humanoider Roboter fasziniert seit Langem. Elon Musk verspricht schon f\u00fcr n\u00e4chstes Jahr n\u00fctzliche Tesla-Bots. Aber sind diese wirklich erstrebenswert?",
+            "url": "https://www.telepolis.de/features/Elon-Musk-verspricht-humanoide-Roboter-fuer-2025-aber-brauchen-wir-sie-wirklich-9829052.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/8/4/2/6/shutterstock_2372278177-8fbb6a06fc2a2f7b.jpeg",
+            "publishedAt": "2024-08-08T14:30:00Z",
+            "content": "(Bild:\u00a0ORION PRODUCTION / Shutterstock.com)\r\nDie Vision humanoider Roboter fasziniert seit Langem. Elon Musk verspricht schon f\u00fcr n\u00e4chstes Jahr n\u00fctzliche Tesla-Bots. Aber sind diese wirklich erstrebe\u2026 [+6791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telepolis.de"
+            },
+            "author": "Steve Benford, Praminda Caleb-Solly",
+            "title": "Tesla will bald echte humanoide Roboter einsetzen \u2013 aber wof\u00fcr?",
+            "description": "Die Vision humanoider Roboter fasziniert seit Langem. Elon Musk verspricht schon f\u00fcr n\u00e4chstes Jahr n\u00fctzliche Tesla-Bots. Aber sind diese wirklich erstrebenswert?",
+            "url": "https://www.telepolis.de/features/Tesla-will-bald-echte-humanoide-Roboter-einsetzen-aber-wofuer-9829052.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/8/4/2/6/shutterstock_2372278177-8fbb6a06fc2a2f7b.jpeg",
+            "publishedAt": "2024-08-08T14:30:00Z",
+            "content": "(Bild:\u00a0ORION PRODUCTION / Shutterstock.com)\r\nDie Vision humanoider Roboter fasziniert seit Langem. Elon Musk verspricht schon f\u00fcr n\u00e4chstes Jahr n\u00fctzliche Tesla-Bots. Aber sind diese wirklich erstrebe\u2026 [+6793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telepolis.de"
+            },
+            "author": "Steve Benford, Praminda Caleb-Solly",
+            "title": "Elon Musk verspricht humanoide Tesla-Roboter f\u00fcr 2025 \u2013 aber brauchen wir sie wirklich?",
+            "description": "Die Vision humanoider Roboter fasziniert seit Langem. Elon Musk verspricht schon f\u00fcr n\u00e4chstes Jahr n\u00fctzliche Tesla-Bots. Aber sind diese wirklich erstrebenswert?",
+            "url": "https://www.telepolis.de/features/Elon-Musk-verspricht-humanoide-Tesla-Roboter-fuer-2025-aber-brauchen-wir-sie-wirklich-9829052.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/4/8/4/2/6/shutterstock_2372278177-8fbb6a06fc2a2f7b.jpeg",
+            "publishedAt": "2024-08-08T14:30:00Z",
+            "content": "(Bild:\u00a0ORION PRODUCTION / Shutterstock.com)\r\nDie Vision humanoider Roboter fasziniert seit Langem. Elon Musk verspricht schon f\u00fcr n\u00e4chstes Jahr n\u00fctzliche Tesla-Bots. Aber sind diese wirklich erstrebe\u2026 [+6774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techstage.de"
+            },
+            "author": "Kai Schmerer",
+            "title": "Bewegungsmelder 2.0: Pr\u00e4senzmelder Neo Human Motion Sensor Pro mit Radar im Test",
+            "description": "Der Neo Human Motion Sensor Pro tastet den \u00dcberwachungsbereich mit 24-GHz-mmWave-Radar ab und will damit die Pr\u00e4senz von Personen exakt erfassen. Wie gut das gelingt, zeigt der Testbericht.",
+            "url": "https://www.techstage.de/test/bewegungsmelder-20-praesenzmelder-neo-human-motion-sensor-pro-mit-radar-im-test/6qpr4sm#article",
+            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/brhktkpTURBXy9mZDhiZDNjMjI1ZjNkNDExMjlhNjhiMDQ5N2E0YmY2Yy5qcGeSlQMAAM0PwM0I3JMFzQSwzQJ2",
+            "publishedAt": "2024-08-08T14:20:00Z",
+            "content": "Anders als bei klassischen Bewegungssensoren, die, wie der Name schon nahelegt, nur auf eine Bewegung reagieren, k\u00f6nnen mmWave-Radar-gest\u00fctzte Pr\u00e4senzmelder Personen nicht nur erfassen, wenn sie eine\u2026 [+8468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Proteste und Produktionsstillstand: Tesla l\u00e4sst Zeitplan f\u00fcr Ausbau in Gr\u00fcnheide offen",
+            "description": "Der E-Auto-Markt ist ins Stocken geraten. Tesla hat dennoch vor, seine Fabrik bei Berlin auszubauen \u2013 aber unter Bedingungen.",
+            "url": "https://www.stern.de/wirtschaft/tesla-laesst-zeitplan-fuer-ausbau-in-gruenheide-offen-34944722.html",
+            "urlToImage": "https://image.stern.de/34944750/t/m4/v1/w1440/r1.7778/-/tesla--1-.jpg",
+            "publishedAt": "2024-08-03T10:09:00Z",
+            "content": "Der E-Auto-Markt ist ins Stocken geraten. Tesla hat dennoch vor, seine Fabrik bei Berlin auszubauen aber unter Bedingungen.\r\nProtest, Produktionsstillstand, Probleme am Markt: US-Elektroautobauer Tes\u2026 [+5568 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diepresse.com"
+            },
+            "author": "Die Presse",
+            "title": "Aktie legt zu: Bilfinger \u00fcberrascht mit Millionengewinn",
+            "description": "Der Umsatz des deutschen Industriedienstleisters kletterte im zweiten Quartal um 16 Prozent auf 1,3 Milliarden Euro. Unter dem Strich blieb ein Gewinn von 48 Millionen Euro. An der B\u00f6rse kam die Quartalsbilanz gut an.",
+            "url": "https://www.diepresse.com/18758233/aktie-legt-zu-bilfinger-ueberrascht-mit-millionengewinn",
+            "urlToImage": "https://img.diepresse.com/public/incoming/wggay6-imago-images-117003612/alternates/DPR_SOCIAL_NACHRICHTEN/imago%20images%20117003612",
+            "publishedAt": "2024-08-13T08:39:39Z",
+            "content": "Der Umsatz des deutschen Industriedienstleisters kletterte im zweiten Quartal um 16 Prozent auf 1,3 Milliarden Euro. Unter dem Strich blieb ein Gewinn von 48 Millionen Euro. An der B\u00f6rse kam die Quar\u2026 [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Elektroautos: Tesla l\u00e4sst Zeitplan f\u00fcr Ausbau in Gr\u00fcnheide offen",
+            "description": "Gr\u00fcnheide - Protest, Produktionsstillstand, Probleme am Markt: US-Elektroautobauer Tesla f\u00e4hrt in diesem Jahr in Deutschland gegen wachsende Widerst\u00e4nde",
+            "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/elektroautos--tesla-laesst-zeitplan-fuer-ausbau-in-gruenheide-offen-34944274.html",
+            "urlToImage": "https://image.stern.de/34944276/t/3N/v1/w1440/r1.7778/-/03--o7stlowd7iv9axw800h600jpeg---e43bfdb6577058c1.jpg",
+            "publishedAt": "2024-08-03T04:30:37Z",
+            "content": "Der E-Auto-Markt ist ins Stocken geraten. Tesla hat dennoch vor, seine Fabrik bei Berlin auszubauen - aber unter Bedingungen.\r\nProtest, Produktionsstillstand, Probleme am Markt: US-Elektroautobauer T\u2026 [+5521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zdnet.de"
+            },
+            "author": "ZDNet-Redaktion",
+            "title": "\u201eKI wird Entwickler nicht ersetzen, sondern Aufgaben verschieben\u201c",
+            "description": "Wie wird KI die Aufgaben von Programmierern ver\u00e4ndern? Ein Interview mit Apratim Purakayasha von Skillsoft.",
+            "url": "https://www.zdnet.de/88417372/ki-wird-entwickler-nicht-ersetzen-sondern-aufgaben-verschieben/",
+            "urlToImage": "https://www.zdnet.de/wp-content/themes/korasa-zdnet-de/images/zdnet-logo.png",
+            "publishedAt": "2024-08-05T07:20:18Z",
+            "content": "Die j\u00fcngsten \u00c4u\u00dferungen von Nvidia-CEO Jensen Huang deuten darauf hin, dass KI den Bedarf an Entwickelnden und Programmierern erheblich reduzieren oder sogar ersetzen k\u00f6nnte. Wie sehen Sie die Rolle \u2026 [+6751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Excitingcommerce.de"
+            },
+            "author": "Shopware",
+            "title": "Prozessautomatisierung und KI im E-Commerce, MEGABAD plant Umstieg auf Shopware und die DMEXCO steht an\u00a0 \u2013 in den Shopware Insights #16",
+            "description": "[Hier kommt Shopware mit den aktuellen Insights] Die aktuelle Situation in der E-Commerce-Branche l\u00e4sst sich treffend mit Darwins \u201eSurvival of the fittest\u201c beschreiben. Nach einer Phase, in der Wachstum um jeden Preis die Strategie dominierte und die finanzst\u2026",
+            "url": "https://excitingcommerce.de/2024/08/22/prozessautomatisierung-und-ki-im-e-commerce-megabad-plant-umstieg-auf-shopware-und-die-dmexco-steht-an-in-den-shopware-insights-16/",
+            "urlToImage": "https://i0.wp.com/excitingcommerce.de/wp-content/uploads/2024/08/shopware16dmexco24.png?fit=1200%2C627&ssl=1",
+            "publishedAt": "2024-08-22T10:40:27Z",
+            "content": "[Hier kommt Shopware mit den aktuellen Insights]\n\nDie aktuelle Situation in der E-Commerce-Branche l\u00e4sst sich treffend mit Darwins \u201eSurvival of the fittest\u201c beschreiben. Nach einer Phase, in der Wach\u2026 [+6399 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": null,
+            "title": "Slack als Gamechanger f\u00fcr asynchrone Kollaboration",
+            "description": "Wie Celonis mit Slack die Produktivit\u00e4t auf ein neues Level hebt \u2013 ein Gespr\u00e4ch mit Kirsten Bildhauer, VP People and Culture EMEA bei Celonis.weiterlesen auf t3n.de",
+            "url": "https://t3n.de/news/slack-als-gamechanger-fuer-asynchrone-kollaboration-1640910/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/08/Beitragsbild_Celonis_2_1200x674.jpg",
+            "publishedAt": "2024-08-19T11:30:47Z",
+            "content": "Wie Celonis mit Slack die Produktivit\u00e4t auf ein neues Level hebt ein Gespr\u00e4ch mit Kirsten Bildhauer, VP People and Culture EMEA bei Celonis. \r\nCelonis, f\u00fchrend im Bereich Process Mining und Prozessin\u2026 [+5694 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Ausw\u00e4rtige Autoren (AA)",
+            "title": "H\u00e4ufig m\u00fcde bei der Arbeit? Vielleicht leiden Sie unter sozialem Jetlag",
+            "description": "Mehr als jeder Dritte schiebt regelm\u00e4ssig \u00dcberstunden.\u00a0Oft verhindert M\u00fcdigkeit effizientes Arbeiten. Ein besseres Energiemanagement kann helfen, schneller zum Ziel zu kommen.",
+            "url": "https://www.nzz.ch/wirtschaft/haeufig-muede-vielleicht-leiden-sie-unter-sozialem-jetlag-ld.1843503",
+            "urlToImage": "https://img.nzz.ch/2024/08/17/457f7487-2de5-407e-97b9-3701bbf4031d.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7648,4302,x0,y400&wmark=nzz",
+            "publishedAt": "2024-08-17T19:45:00Z",
+            "content": "Pl\u00f6tzlich ist die Energie weg: Rund die H\u00e4lfte der Angestellten in Europa arbeitet zu Zeiten, die nicht dem inneren Rhythmus entsprechen. \r\nIn der heutigen Arbeitswelt wird Zeitmanagement oft als Sch\u2026 [+4778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "Manfred Bremmer",
+            "title": "IT-Modernisierung: Der Mittelstand ist besser als sein Ruf",
+            "description": "Eine Studie von YouGov im Auftrag von Kyndryl zeigt: Der Mittelstand nimmt beim Thema Digitalisierung Fahrt auf, muss aber etliche Hindernisse umschiffen.",
+            "url": "https://www.computerwoche.de/a/der-mittelstand-ist-besser-als-sein-ruf,3699036?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3397992/640x360.jpg",
+            "publishedAt": "2024-08-05T06:10:00Z",
+            "content": "Auch Kleinbetriebe arbeiten l\u00e4ngst nicht mehr nur analog - und sehen entsprechend Handlungsbedarf bei Themen wie Security oder Cloud. Foto: pikselstock - shutterstock.com\r\nDer deutsche Mittelstand wi\u2026 [+3478 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Von FOCUS-online-Autorin Georgina Rickmers",
+            "title": "Studie erkl\u00e4rt gute Wahlergebnisse - Nicht nur Migration: Diese f\u00fcnf Gr\u00fcnde erkl\u00e4ren den Erfolg von AfD und BSW im Osten",
+            "description": "Eine neue DIW-Studie enth\u00fcllt: Der Erfolg der AfD und des B\u00fcndnisses Sahra Wagenknecht im Osten Deutschlands liegt nicht an der Migrationspolitik! Viel eher sind hier die demografischen Faktoren entscheidend.Von FOCUS-online-Autorin Georgina Rickmers",
+            "url": "https://www.focus.de/politik/studie-erklaert-gute-wahlergebnisse-nicht-nur-migration-diese-fuenf-gruende-erklaeren-den-erfolg-von-afd-und-bsw-im-osten_id_260184704.html",
+            "urlToImage": "https://p6.focus.de/img/panorama/id_259982946/sahra-wagenknecht-geht-an-alice-weidel-von-der-afd-vorbei..jpg?im=Crop%3D%280%2C56%2C1000%2C500%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=39b286a46739aa61fb015248f6ae91d59d15e57109fcbd2c533124e33a32cfe9",
+            "publishedAt": "2024-08-01T10:18:03Z",
+            "content": "Eine neue DIW-Studie enth\u00fcllt: Der Erfolg der AfD und des B\u00fcndnisses Sahra Wagenknecht im Osten Deutschlands liegt nicht an der Migrationspolitik! Viel eher sind hier die demografischen Faktoren ents\u2026 [+4004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diepresse.com"
+            },
+            "author": "Beate Lammer",
+            "title": "Siemens leidet unter der Flaute in China [premium]",
+            "description": "Der Umsatz mit Software wuchs kr\u00e4ftig, doch kommt das Gesch\u00e4ft mit Automatisierung nicht so recht in Gang.",
+            "url": "https://www.diepresse.com/18745684/siemens-leidet-unter-der-flaute-in-china",
+            "urlToImage": "https://img.diepresse.com/public/incoming/amoifv-FILES-GERMANY-INDUSTRY-COMPANY-RESULTS-SIEMENS/alternates/DPR_SOCIAL_NACHRICHTEN/FILES-GERMANY-INDUSTRY-COMPANY-RESULTS-SIEMENS",
+            "publishedAt": "2024-08-08T14:04:00Z",
+            "content": "Der Umsatz mit Software wuchs kr\u00e4ftig, doch kommt das Gesch\u00e4ft mit Automatisierung nicht so recht in Gang.\r\nM\u00fcnchen. Die Siemens-Aktie war heuer bis dato kein \u00dcberflieger. Daran \u00e4nderten auch die j\u00fcn\u2026 [+432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Carsten Dierig, Christoph Kapalschinski",
+            "title": "Lukas Podolski wagt die D\u00f6ner-Revolution",
+            "description": "Der Fu\u00dfballer Lukas Podolski plant mit seiner K\u00f6lner D\u00f6nerkette Mangal eine gro\u00dfe Offensive. Wie WELT erfuhr, sollen Tausende Automaten t\u00fcrkische Speisen zubereiten und verkaufen \u2013 ganz ohne Personal. Dahinter steht eine deutsche Roboter-Firma, die sogar an d\u2026",
+            "url": "https://www.welt.de/wirtschaft/article253212682/Lukas-Podolski-wagt-die-Doener-Revolution.html",
+            "urlToImage": "https://img.welt.de/img/wirtschaft/mobile253214654/8967934707-ci16x9-w1200/Eroeffnung-einer-Filiale-von-Lukas-Podolskis-Doener-Laden-2.jpg",
+            "publishedAt": "2024-08-28T03:03:48Z",
+            "content": "Der Fu\u00dfballer Lukas Podolski plant mit seiner K\u00f6lner D\u00f6nerkette Mangal eine gro\u00dfe Offensive. Wie WELT erfuhr, sollen Tausende Automaten t\u00fcrkische Speisen zubereiten und verkaufen ganz ohne Personal. \u2026 [+9165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Etailment.de"
+            },
+            "author": "Martin Schmidt",
+            "title": "Digitalisierung: Wie die E-Rechnung den E-Commerce ver\u00e4ndert",
+            "description": "Schon l\u00e4ngst verschicken E-Commerce-Unternehmen Rechnungen vor allem als PFD. Ab 2025 soll die E-Rechnung nun in bestimmten F\u00e4llen zur Pflicht werden. Dieser Beitrag beleuchtet die Vorteile, aber auch m\u00f6gliche Probleme der E-Rechnung und gibt einen \u00dcberblick \u2026",
+            "url": "https://etailment.de/news/stories/digitalisierung-wie-die-e-rechnung-den-e-commerce-veraendert-24879",
+            "urlToImage": "https://etailment.de/news/media/7/E-Rechnung-60328.jpeg",
+            "publishedAt": "2024-08-23T12:35:00Z",
+            "content": "Schon l\u00e4ngst verschicken E-Commerce-Unternehmen Rechnungen vor allem als PFD. Ab 2025 soll nun die E-Rechnung in bestimmten F\u00e4llen zur Pflicht werden. Dieser Beitrag beleuchtet die Vorteile, aber auc\u2026 [+7081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Nadine B\u00f6s",
+            "title": "Habeck er\u00f6ffnet Pilotanlage: Von der Atomkraft zum gr\u00fcnen Wasserstoff",
+            "description": "Warum Robert Habeck Lingen im Emsland zu einem der wichtigsten Orte der Energiewende erkl\u00e4rt \u2013 und Hunderte Millionen F\u00f6rdergeld dorthin schickt.",
+            "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/pilotanlage-von-der-atomkraft-zum-gruenen-wasserstoff-19915429.html",
+            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/3688269223/1.9915426/facebook_teaser/kernkraft-ade-lingen-mit.jpg",
+            "publishedAt": "2024-08-12T14:57:58Z",
+            "content": "Dieses Erlebnis wollte sich auch Bundeswirtschaftsminister Robert Habeck (Gr\u00fcne) auf seiner Reise durch Norddeutschland nicht entgehen lassen, die Symbolik f\u00fcr die Energiewende ist zu sch\u00f6n, und schl\u2026 [+5733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "FloQast",
+            "title": "Marktstudie: Mehr als 60 % der Finanzf\u00fchrungskr\u00e4fte in der DACH-Region sagen, dass veraltete Abschlussprozesse zu Mitarbeiterfluktuation f\u00fchren",
+            "description": "53 % der Mitarbeiter in der DACH-Region nennen Stress und \u00dcberlastung als Gr\u00fcnde f\u00fcr ihren Wechsel aus Finanzberufen 53 % der Mitarbeiter in der DACH-Region nennen Stress und \u00dcberlastung als Gr\u00fcnde f\u00fcr ihren Wechsel aus Finanzberufen",
+            "url": "https://www.globenewswire.com/news-release/2024/08/28/2936765/0/de/Marktstudie-Mehr-als-60-der-Finanzf%C3%BChrungskr%C3%A4fte-in-der-DACH-Region-sagen-dass-veraltete-Abschlussprozesse-zu-Mitarbeiterfluktuation-f%C3%BChren.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/e23b37c7-895b-47ce-b84d-b02373811e8a",
+            "publishedAt": "2024-08-28T08:00:00Z",
+            "content": "M\u00dcNCHEN, Aug. 28, 2024 (GLOBE NEWSWIRE) -- FloQast, eine Accounting Automation Plattform von Accountants f\u00fcr Accountants, ver\u00f6ffentlicht heute die Ergebnisse einer neuen Marktstudie mit dem Titel: Di\u2026 [+4062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Michael Rasch (ra)",
+            "title": "Deutsche Automobilzulieferer bauen Zehntausende\u00a0Arbeitspl\u00e4tze ab \u2013 liegt das nur am Umstieg auf das Elektroauto?",
+            "description": "J\u00fcngst k\u00fcndigte der einstige Getriebespezialist ZF Friedrichshafen die Streichung von bis zu 14\u2005000 Stellen an. Auch Konkurrenten wie Bosch und Continental reduzieren in den Autosparten das Personal. Die schleppenden E-Auto-Verk\u00e4ufe versch\u00e4rfen die Lage der K\u2026",
+            "url": "https://www.nzz.ch/wirtschaft/zf-bosch-conti-autozulieferer-bauen-tausende-jobs-ab-ist-das-e-auto-schuld-ld.1841589",
+            "urlToImage": "https://img.nzz.ch/2024/07/30/64169b1c-6301-459c-b301-c4ee69d9626e.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7882,4434,x0,y36&wmark=nzz",
+            "publishedAt": "2024-07-31T03:30:00Z",
+            "content": "Auf der Branchenmesse IAA Mobility zeigte ZF im vergangenen Jahr seine Neuheiten: Der Autozulieferer ist in einer tiefgreifenden Transformation.\r\nDie Branche steckt in einer tiefen Transformation, ja\u2026 [+7624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Giga"
+            },
+            "author": "Simon Stich",
+            "title": "E-Autos: Massiver Preisverfall macht Kunden Hoffnung",
+            "description": "E-Autos sind zu teuer? Immerhin gibt es Hoffnung: Zumindest die Preise f\u00fcr E-Auto-Batterien sind in den letzten Jahren dramatisch gesunken: Zwischen 2008 und 2023 sind die Kosten um fast 90 Prozent gefallen, hat das US-Energieministerium errechnet.",
+            "url": "https://www.giga.de/tech/e-autos-massiver-preisverfall-macht-kunden-hoffnung--01J4VET37W5APN3C0HFTPY0GJJ",
+            "urlToImage": "https://static.giga.de/wp-content/uploads/2024/07/e-auto-laden-imago715261846-rcm1200x0.jpg",
+            "publishedAt": "2024-08-09T13:30:00Z",
+            "content": "E-Autos sind zu teuer? Immerhin gibt es Hoffnung: Zumindest die Preise f\u00fcr E-Auto-Batterien sind in den letzten Jahren dramatisch gesunken: Zwischen 2008 und 2023 sind die Kosten um fast 90 Prozent g\u2026 [+2117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sparbote.de"
+            },
+            "author": "daniel",
+            "title": "Shelly PM Mini Gen. 3 Smarthome-Element f\u00fcr 12,99\u20ac",
+            "description": "Hier kommt eine Shelly-Komponente zum guten Kurs. Shelly PM Mini Gen. 3 Smarthome-Element f\u00fcr 12,99\u20ac bei Amazon Vergleichspreise ab 16,36\u20ac \u2013 ihr spart 3,37\u20ac Die Infos: Shelly PM Mini Gen3 ist ein intelligenter WLAN- und [\u2026]\nDer Beitrag Shelly PM Mini Gen. 3 S\u2026",
+            "url": "https://www.sparbote.de/485361/shelly-pm-mini-gen-3/",
+            "urlToImage": "https://www.sparbote.de/img/schnaeppchen/2024/07/s-l1600-2.png",
+            "publishedAt": "2024-07-30T10:25:57Z",
+            "content": "Hier kommt eine Shelly-Komponente zum guten Kurs.\r\nAmazon sendet bei Bestellungen \u00fcber 39 (vor Gutschein etc.) grunds\u00e4tzlich versandkostenfrei, ansonsten fallen 3,99 Versand an. Mit Prime-Abo, an Abh\u2026 [+2530 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onlinemarketing.de"
+            },
+            "author": "Sponsored",
+            "title": "Tipps f\u00fcr dein E-Mail Marketing 2024: Neue Anforderungen beherzigen, KI-Vorteile nutzen und mit Support Zeit und Geld sparen",
+            "description": "Die E-Mail ist 2024 so relevant denn je und bietet Marketern \u2013 trotz Hindernissen durch neue Gmail- und Yahoo-Anforderungen \u2013 einen bunten Strau\u00df an Vorteilen im Marketing-Mix. Wir zeigen dir, mit welchen Ressourcen du herausstichst, sicher und performant sen\u2026",
+            "url": "https://onlinemarketing.de/email-marketing/tipps-e-mail-marketing-2024-anforderungen-erfolg",
+            "urlToImage": "https://onlinemarketing.de/wp-content/uploads/2024/08/Kopie-von-Titelbild-neu-2024-08-26T093557.645.png",
+            "publishedAt": "2024-08-26T07:39:25Z",
+            "content": "E-Mails sind vieles: kosteng\u00fcnstig, ein natives und etabliertes Kommunikationsmittel, ein T\u00fcr\u00f6ffner f\u00fcr Sales und Datengenerierung, ein interaktives, mobil einfach zu konsumierendes Format. Das E-Mai\u2026 [+6938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "COMPUTERWOCHE",
+            "title": "Pr\u00e4diktive KI: Neue KI-Tools verbessern die Qualit\u00e4tskontrolle",
+            "description": "Generative KI ist zum Hype geworden. Doch KI ist seit Jahrzehnten ein fester Bestandteil in vielen Bereichen, in denen die Entwicklung nicht stillsteht.",
+            "url": "https://www.computerwoche.de/a/neue-ki-tools-verbessern-die-qualitaetskontrolle,3699080?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3398073/640x360.jpg",
+            "publishedAt": "2024-08-13T03:04:00Z",
+            "content": "KI ist aus der Fertigungs-Optimierung, der Qualit\u00e4tskontrolle, der Logistik sowie der Betrugserkennung nicht mehr wegzudenken. Die Entwicklungen bei der generativen KI sorgen auch hier f\u00fcr neue L\u00f6sun\u2026 [+5136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerwoche.de Live"
+            },
+            "author": "COMPUTERWOCHE",
+            "title": "TV- & IT-Technologie: Olympia: 11.000 Stunden 8K Live-\u00dcbertragung \u00fcbers Internet",
+            "description": "Die TV-\u00dcbertragungen von Gro\u00dfveranstaltungen waren schon immer eine technische Herausforderung. Paris 2024 ist da keine Ausnahme \u2013 ganz im Gegenteil.",
+            "url": "https://www.computerwoche.de/a/olympia-11-000-stunden-8k-live-uebertragung-uebers-internet,3699048?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+            "urlToImage": "https://images.computerwoche.de/bdb/3398005/640x360.jpg",
+            "publishedAt": "2024-08-08T03:08:00Z",
+            "content": "Die diesj\u00e4hrigen Olympischen Sommerspiele in Paris sind ein Meilenstein bei der Live-\u00dcbertragung von Gro\u00dfveranstaltungen. Foto: Intel\r\nDie Zahlen der diesj\u00e4hrigen Olympischen Spiele in Paris sind bee\u2026 [+4915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Nachrichtendienste: Spionage in Forschung - Gefahr bestehe auf hohem Niveau",
+            "description": "Wiesbaden (lhe) - Hessische Forschungseinrichtungen stehen nach Einsch\u00e4tzung der Landesregierung weiterhin im Fokus von Spionage durch ausl\u00e4ndische",
+            "url": "https://www.stern.de/gesellschaft/regional/hessen/nachrichtendienste--spionage-in-forschung---gefahr-bestehe-auf-hohem-niveau-34984268.html",
+            "urlToImage": "https://image.stern.de/34984270/t/sg/v1/w1440/r1.7778/-/16--r2hkewpj4gv5axw800h600jpeg---b1b1236f39ed8d18.jpg",
+            "publishedAt": "2024-08-15T23:40:36Z",
+            "content": "Wissenschaftsspionage ist auch in Hessen eine Gefahr. Welche Bereiche sind besonders anf\u00e4llig?\r\nHessische Forschungseinrichtungen stehen nach Einsch\u00e4tzung der Landesregierung weiterhin im Fokus von S\u2026 [+1981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "netzwelt"
+            },
+            "author": "Richard W. Schaber",
+            "title": "Philips Hue Secure Kontaktsensor im Test: Smarter Sensor f\u00fcr T\u00fcren und Fenster mit stolzem Preis",
+            "description": "Einen smarten Kontaktsensor f\u00fcr T\u00fcren und Fenster gibt es nun auch von Philips Hue. Was der Sensor kann, was er kostet und f\u00fcr wen er sich besonders lohnt, lest ihr im Testbericht.\nDieser Artikel wurde einsortiert unter \nTechnology,Smart Home,T\u00fcr- und Fenster\u2026",
+            "url": "https://www.netzwelt.de/philips-hue-secure-kontaktsensor/testbericht.html",
+            "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2024/07/philips-hue-secure-kontaktensor-einzel-doppelpack-gekauft--ohne-hue-bridge-nuetzt-zubehoer-allerdings-viel-409874.jpg",
+            "publishedAt": "2024-08-04T13:00:00Z",
+            "content": "PHILIPS HUE SECURE KONTAKTSENSOR\r\nEinen smarten Kontaktsensor f\u00fcr T\u00fcren und Fenster gibt es nun auch von Philips Hue. Was der Sensor kann, was er kostet und f\u00fcr wen er sich besonders lohnt, lest ihr \u2026 [+7324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thomashutter.com"
+            },
+            "author": "Adi Zumb\u00fchl",
+            "title": "LinkedIn: Benchmark Report 2024",
+            "description": "Der LinkedIn B2B Marketing Benchmark Report 2024 bietet wertvolle Einblicke in die neuesten Trends und Herausforderungen im B2B-Marketing. Erfahre, wie Unternehmen durch Agilit\u00e4t, Datenkompetenz, kreative Kampagnen und k\u00fcnstlicher Intelligenz ihre Marketingst\u2026",
+            "url": "https://www.thomashutter.com/linkedin-benchmark-report-2024/",
+            "urlToImage": "https://www.thomashutter.com/wp-content/uploads/2024/08/1200x628-blog-2408-linkedin-benchmark-report.jpg",
+            "publishedAt": "2024-08-22T04:00:21Z",
+            "content": "Der LinkedIn B2B Marketing Benchmark Report 2024 basiert auf der Befragung von 2\u2019000 B2B-Marketingfachpersonen aus acht L\u00e4ndern. Darunter die USA, Grossbritannien, Deutschland, Indien, Singapur, Aust\u2026 [+5445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Giga"
+            },
+            "author": "Robert Kohlick",
+            "title": "Jetzt spart sich die Deutsche Bahn komplett kaputt",
+            "description": "Halbzeit bei der Deutschen Bahn. Eigentlich wollte man 2024 wieder schwarze Zahlen beim Gro\u00dfkonzern schreiben, doch davon ist in den Bilanzen nach den ersten sechs Monaten nichts zu sehen. Um das schw\u00e4chelnde Gesch\u00e4ft finanziell aufzufangen, will man jetzt an\u2026",
+            "url": "https://www.giga.de/news/jetzt-spart-sich-die-deutsche-bahn-komplett-kaputt/",
+            "urlToImage": "https://crops.giga.de/3b/dd/63/94359bf29aab923b609738d7f5_YyAxOTIweDEwMDMuMiswKzM5AnJlIDEyMDAgNjI3AzNkOTVmYTliOThm.jpg",
+            "publishedAt": "2024-08-06T06:32:32Z",
+            "content": "Halbzeit bei der Deutschen Bahn. Eigentlich wollte man 2024 wieder schwarze Zahlen beim Gro\u00dfkonzern schreiben, doch davon ist in den Bilanzen nach den ersten sechs Monaten nichts zu sehen. Um das sch\u2026 [+2682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techstage.de"
+            },
+            "author": "Stefan Schomberg",
+            "title": "Roborock Qrevo S im Test: Hat alles, was ein guter Saugroboter braucht",
+            "description": "Der Roborock Qrevo S ist ein gelungenes Update des ersten Roborock Qrevo. Er \u00fcberzeugt starke Saugkraft, multifunktionale Reinigungsstation und ausgereifte App zum vertretbaren Preis.",
+            "url": "https://www.techstage.de/test/roborock-qrevo-s-im-test-hat-alles-was-ein-guter-saugroboter-braucht/pw2wwlc#article",
+            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/-aLktkpTURBXy9kM2M3M2JiYTA0NzAxNTk3OGQwNzE1M2JlOGM0N2E2Yy5qcGeSlQMAAM0O_s0Ib5MFzQSwzQJ2",
+            "publishedAt": "2024-08-07T13:45:52Z",
+            "content": "Roborock hat mit dem Qrevo S eine deutliche Verbesserung zum urspr\u00fcnglichen Qrevo-Modell (Testbericht) auf den Markt gebracht. Der neue Qrevo S bietet eine h\u00f6here Saugkraft, eine verbesserte Wischfun\u2026 [+7528 chars]"
+        }
+    ]
+}
