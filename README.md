@@ -3,5 +3,5 @@ Model development and comparative evaluation for Sales Prediction based on econo
 
 Using https://www.newscatcherapi.com/ as source for news data.
 
-Company specific data is removed from this project.
+Company specific data like internal sales data and unpublished order inatke data is removed from this project.
 
